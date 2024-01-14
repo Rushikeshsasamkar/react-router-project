@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      
+      <h1 className='bg-slate-600'>React router</h1>
     </div>
   )
 }
